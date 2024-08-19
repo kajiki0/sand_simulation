@@ -3,10 +3,10 @@
 - [Pygame](https://www.pygame.org/news): python lib for making games built on top of SDL
 - [Pymunk](http://www.pymunk.org/en/latest/#): python lib for 2d physics(game,simulation or demo) built on top of Chipmunk2D
 
-# WARNING!
+## WARNING!
 This is an old project when i was studying how to implement physics in pygame games. It is not optimized, and the code is "XGH"like, but its a project that i liked doing it.
 
-# Usage:
+## Usage:
 ```bash
 pip install pygame
 pip install pymunk
@@ -16,8 +16,9 @@ hold left mouse button to create sand
 
 that's it!(be careful not to create many particles)
 
+## Demo video:
 
-
+![video](sand_simulation_video.mp4)
 
 
 
