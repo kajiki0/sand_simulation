@@ -16,9 +16,8 @@ hold left mouse button to create sand
 
 that's it!(be careful not to create many particles)
 
-## Demo video:
-
-[![video](sand.png))
+### Demo
+![sand](sand_simulation_video.gif)
 
 
 
