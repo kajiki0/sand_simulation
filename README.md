@@ -18,7 +18,7 @@ that's it!(be careful not to create many particles)
 
 ## Demo video:
 
-![video](sand_simulation_video.mp4)
+[![video](sand.png)](sand_simulation_video.mp4)
 
 
 
