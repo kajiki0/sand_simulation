@@ -14,7 +14,7 @@ python main.py
 ```
 hold left mouse button to create sand
 
-that's it!(be careful not to create many particles)
+that's it!
 
 ### Demo
 ![sand](sand_simulation_video.gif)
