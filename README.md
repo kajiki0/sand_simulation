@@ -19,5 +19,7 @@ that's it!
 ### Demo
 ![sand](sand_simulation_video.gif)
 
+(sorry about this gif, idk why its so slow)
+
 
 
